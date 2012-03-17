@@ -1,0 +1,13 @@
+6, 3.00, fish_sandwich, milk, blueberry_muffin      11000             24
+6, 11.00, blueberry_muffin, vodka, mocha, milkshake           01010   10
+6, 15.00, sushi, fish_sandwich, knuckle_sandwich, tea         10101   21
+6, 8.50, tea, coffee, banana, toast                           00100    4
+6, 5.00, milkshake                                            00010    2
+
+#fish_sandwich blueberry_muffin tea milkshake sushi
+
+24 2 10 21     27.50
+24 2 21        23.00
+24 10 21       29.00
+2 10 21        31.00
+10 21          26.00
